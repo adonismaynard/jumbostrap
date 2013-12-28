@@ -141,7 +141,7 @@ figure {
 fieldset {
   padding: 0.35em 0.625em 0.75em;
   margin: 0 2px;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #ff00ff;
 }
 
 legend {
@@ -5228,7 +5228,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #ff00ff;
 }
 
 .jumbotron h1,
